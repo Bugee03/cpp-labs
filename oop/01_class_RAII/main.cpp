@@ -46,7 +46,7 @@ private:
     //ex:
     //GPIO led1(13);
     //GPIO led2(12);
-    //led2 = led1;   // копирующее присваивание
+    //led2 = led1;   
 
 };
 
